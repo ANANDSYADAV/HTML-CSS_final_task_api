@@ -1,0 +1,20 @@
+{
+  testimonials: [
+    {
+      "userName": "Sara Makamed",
+      "authorImage": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/users/user1.png"
+      "alt": "image1",
+      "location": "Jakatar",
+      "rating": 5,
+      "message": "I've been using the hotel booking system for several years now, and it's become my go-to platform for planning my trips. The interface is user-friendly, and I appreciate the detailed information and real-time availability of hotels.",
+    },
+    {
+      "userName": "Atend John",
+      "authorImage": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/users/user2.png"
+      "alt": "image2",
+      "location": "Califonia",
+      "rating": 5,
+      "message": "I had a last-minute business trip, and the hotel booking system came to the rescue. I was able to find a high-quality hotel in no time and even got a great deal on the room. The confirmation process was straightforward, and I received all the necessary information promptly.",
+    },
+  ]
+}
