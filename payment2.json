@@ -1,0 +1,32 @@
+{
+  "images": [
+    {
+      "src": "https://github.com/ANANDSYADAV/HTML-CSS_final_task_api/blob/main/payment2/paypal.svg",
+      "alt": "paypal"
+    },
+    {
+      "src": "https://github.com/ANANDSYADAV/HTML-CSS_final_task_api/blob/main/payment2/stripe.svg",
+      "alt": "stripe"
+    },
+    {
+      "src": "https://github.com/ANANDSYADAV/HTML-CSS_final_task_api/blob/main/payment2/payoneer.svg",
+      "alt": "payoneer"
+    },
+    {
+      "src": "https://github.com/ANANDSYADAV/HTML-CSS_final_task_api/blob/main/payment2/visa.svg",
+      "alt": "visa"
+    },
+    {
+      "src": "https://github.com/ANANDSYADAV/HTML-CSS_final_task_api/blob/main/payment2/cash-app.svg",
+      "alt": "cash-app"
+    },
+    {
+      "src": "https://github.com/ANANDSYADAV/HTML-CSS_final_task_api/blob/main/payment2/bitcoin.svg",
+      "alt": "bitcoin"
+    },
+    {
+      "src": "https://github.com/ANANDSYADAV/HTML-CSS_final_task_api/blob/main/payment2/discover.svg",
+      "alt": "discover"
+    }
+  ]
+}
