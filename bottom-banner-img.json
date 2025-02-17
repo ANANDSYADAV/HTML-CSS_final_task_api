@@ -1,0 +1,32 @@
+{
+  "images": [
+    {
+      "src": "images/bottom-banner/image1.png",
+      "alt": "image1"
+    },
+    {
+      "src": "images/bottom-banner/image2.png",
+      "alt": "image2"
+    },
+    {
+      "src": "images/bottom-banner/image3.png",
+      "alt": "image3"
+    },
+    {
+      "src": "images/bottom-banner/image4.png",
+      "alt": "image4"
+    },
+    {
+      "src": "images/bottom-banner/image5.png",
+      "alt": "image5"
+    },
+    {
+      "src": "images/bottom-banner/image6.png",
+      "alt": "image6"
+    },
+    {
+      "src": "images/bottom-banner/image7.png",
+      "alt": "image7"
+    }
+  ]
+}
