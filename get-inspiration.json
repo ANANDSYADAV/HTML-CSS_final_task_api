@@ -2,15 +2,36 @@
   "images": [
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/get-inspiration/image1.png",
-      "alt": "image1"
+      "alt": "image1",
+      "category": "Cultural",
+      "date": "18 Sep 2024",
+      "time": "6 mins",
+      "numberOfComments": 38,
+      "cardHeading": "Ultimate Travel Planning Guide: 10 Tips for a Seamless Journey",
+      "authorName": "Jimmy Daves",
+      "authorImage": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/users/user3.png"
     },
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/get-inspiration/image2.png",
-      "alt": "image2"
+      "alt": "image2",
+      "category": "Travel",
+      "date": "18 Sep 2024",
+      "time": "6 mins",
+      "numberOfComments": 38,
+      "cardHeading": "Modern Building Design",
+      "authorName": "Top 10 Travel Hacks for Budget- Conscious Adventurers",
+      "authorImage": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/users/user3.png"
     },
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/get-inspiration/image3.png",
-      "alt": "image3"
-    },
+      "alt": "image3",
+      "category": "Discovery",
+      "date": "18 Sep 2024",
+      "time": "6 mins",
+      "numberOfComments": 38,
+      "cardHeading": "Discovering Hidden Gems: 10 Off- the-Beaten-Path Travel Tips",
+      "authorName": "Jimmy Daves",
+      "authorImage": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/users/user3.png"
+    }
   ]
 }
