@@ -2,7 +2,7 @@
     {
         "category": "ruins",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/ruins/img1.avif",
             "alt": "card-image1"
         },
         "badge": {
@@ -29,7 +29,7 @@
     {
         "category": "ruins",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/ruins/img2.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -56,7 +56,7 @@
     {
         "category": "ruins",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/ruins/img3.jpeg",
             "alt": "card-image1"
         },
         "badge": {
@@ -83,7 +83,7 @@
     {
         "category": "ruins",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/ruins/img4.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -110,7 +110,7 @@
     {
         "category": "ruins",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/ruins/img5.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -137,7 +137,7 @@
     {
         "category": "beach",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/beaches/img1.webp",
             "alt": "card-image1"
         },
         "badge": {
@@ -164,7 +164,7 @@
     {
         "category": "beach",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/beaches/img2.webp",
             "alt": "card-image1"
         },
         "badge": {
@@ -191,7 +191,7 @@
     {
         "category": "beach",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/beaches/img3.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -218,7 +218,7 @@
     {
         "category": "beach",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/beaches/img4.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -245,7 +245,7 @@
     {
         "category": "beach",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/beaches/img5.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -272,7 +272,7 @@
     {
         "category": "cycling",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/cycling/img1.webp",
             "alt": "card-image1"
         },
         "badge": {
@@ -299,7 +299,7 @@
     {
         "category": "cycling",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/cycling/img2.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -326,7 +326,7 @@
     {
         "category": "cycling",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/cycling/img3.png",
             "alt": "card-image1"
         },
         "badge": {
@@ -353,7 +353,7 @@
     {
         "category": "cycling",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/cycling/img4.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -380,7 +380,7 @@
     {
         "category": "cycling",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/cycling/img5.webp",
             "alt": "card-image1"
         },
         "badge": {
@@ -407,7 +407,7 @@
     {
         "category": "trek",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/trek/img1.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -434,7 +434,7 @@
     {
         "category": "trek",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/trek/img2.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -461,7 +461,7 @@
     {
         "category": "trek",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/trek/img3.webp",
             "alt": "card-image1"
         },
         "badge": {
@@ -488,7 +488,7 @@
     {
         "category": "trek",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/trek/img4.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -515,7 +515,7 @@
     {
         "category": "trek",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/trek/img5.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -542,7 +542,7 @@
     {
         "category": "food",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/food/img1.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -569,7 +569,7 @@
     {
         "category": "food",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/food/img2.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -596,7 +596,7 @@
     {
         "category": "food",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/food/img3.jpeg",
             "alt": "card-image1"
         },
         "badge": {
@@ -623,7 +623,7 @@
     {
         "category": "food",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/food/img4.webp",
             "alt": "card-image1"
         },
         "badge": {
@@ -650,7 +650,7 @@
     {
         "category": "food",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/food/img5.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -677,7 +677,7 @@
     {
         "category": "river",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/river/img1.webp",
             "alt": "card-image1"
         },
         "badge": {
@@ -704,7 +704,7 @@
     {
         "category": "river",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/river/img2.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -731,7 +731,7 @@
     {
         "category": "river",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/river/img3.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -758,7 +758,7 @@
     {
         "category": "river",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/river/img4.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -785,7 +785,7 @@
     {
         "category": "river",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/river/img5.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -812,7 +812,7 @@
     {
         "category": "spa",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/spa/img1.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -839,7 +839,7 @@
     {
         "category": "spa",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/spa/img2.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -866,7 +866,7 @@
     {
         "category": "spa",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/spa/img3.jpeg",
             "alt": "card-image1"
         },
         "badge": {
@@ -893,7 +893,7 @@
     {
         "category": "spa",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/spa/img4.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -920,7 +920,7 @@
     {
         "category": "spa",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/spa/img5.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -947,7 +947,7 @@
     {
         "category": "road",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/roadtrip/img1.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -974,7 +974,7 @@
     {
         "category": "road",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/roadtrip/img2.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -1001,7 +1001,7 @@
     {
         "category": "road",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/roadtrip/img3.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -1028,7 +1028,7 @@
     {
         "category": "road",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/roadtrip/img4.jpg",
             "alt": "card-image1"
         },
         "badge": {
@@ -1055,7 +1055,7 @@
     {
         "category": "road",
         "image": {
-            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/activities/roadtrip/img5.jpg",
             "alt": "card-image1"
         },
         "badge": {
