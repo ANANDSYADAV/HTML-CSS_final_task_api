@@ -1,158 +1,1082 @@
 [
-  {
-    "image": {
-      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
-      "alt": "card-image1"
+    {
+        "category": "ruins",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Explore Ruins",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
     },
-    "badge": {
-      "text": "Top Rated",
-      "style": "text-red-700"
+    {
+        "category": "ruins",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Explore Ruins",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
     },
-    "icon": {
-      "class": "fa fa-heart-o",
-      "ariaHidden": true
+    {
+        "category": "ruins",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Explore Ruins",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
     },
-    "title": "Adventure Activities",
-    "activities": [
-      "Mountain Hiking",
-      "Tropical Zip-lining",
-      "Rock Climbing",
-      "Coastal Paragliding",
-      "Rafting Excursion"
-    ],
-    "extraInfo": {
-      "text": "365 Tours",
-      "iconClass": "fa fa-map-signs"
+    {
+        "category": "ruins",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Explore Ruins",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "ruins",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Explore Ruins",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "beach",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Beach Snorkel",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "beach",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "beach",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "beach",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "beach",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "cycling",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "cycling",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "cycling",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "cycling",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "cycling",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "trek",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "trek",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "trek",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "trek",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "trek",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "food",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "food",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "food",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "food",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "food",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "river",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "river",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "river",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "river",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "river",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "spa",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "spa",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "spa",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "spa",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "spa",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "road",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "road",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "road",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "road",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
+    },
+    {
+        "category": "road",
+        "image": {
+            "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
+            "alt": "card-image1"
+        },
+        "badge": {
+            "text": "Top Rated",
+            "style": "text-red-700"
+        },
+        "icon": {
+            "class": "fa fa-heart-o",
+            "ariaHidden": true
+        },
+        "title": "Adventure Activities",
+        "activities": [
+            "Mountain Hiking",
+            "Tropical Zip-lining",
+            "Rock Climbing",
+            "Coastal Paragliding",
+            "Rafting Excursion"
+        ],
+        "extraInfo": {
+            "text": "365 Tours",
+            "iconClass": "fa fa-map-signs"
+        }
     }
-  },
-  {
-    "image": {
-      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
-      "alt": "card-image2"
-    },
-    "badge": {
-      "text": "New Arrival",
-      "style": "text-blue-700"
-    },
-    "icon": {
-      "class": "fa fa-star-o",
-      "ariaHidden": true
-    },
-    "title": "Cultural Exploration",
-    "activities": [
-      "City Walking Tours",
-      "Food Tastings",
-      "Historical Visits",
-      "Local Craft Workshops",
-      "Street Photography"
-    ],
-    "extraInfo": {
-      "text": "250 Tours",
-      "iconClass": "fa fa-map-o"
-    }
-  },
-  {
-    "image": {
-      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
-      "alt": "card-image3"
-    },
-    "badge": {
-      "text": "Popular Choice",
-      "style": "text-green-700"
-    },
-    "icon": {
-      "class": "fa fa-thumbs-o-up",
-      "ariaHidden": true
-    },
-    "title": "Wildlife Adventures",
-    "activities": [
-      "Safari Rides",
-      "Bird Watching",
-      "Forest Trekking",
-      "Night Wildlife Tours",
-      "Marine Life Exploration"
-    ],
-    "extraInfo": {
-      "text": "180 Tours",
-      "iconClass": "fa fa-leaf"
-    }
-  },
-  {
-    "image": {
-      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
-      "alt": "card-image4"
-    },
-    "badge": {
-      "text": "Luxury Travel",
-      "style": "text-purple-700"
-    },
-    "icon": {
-      "class": "fa fa-diamond",
-      "ariaHidden": true
-    },
-    "title": "Exclusive Experiences",
-    "activities": [
-      "Private Yachting",
-      "Luxury Train Journeys",
-      "Gourmet Dinners",
-      "Helicopter Rides",
-      "Spa Retreats"
-    ],
-    "extraInfo": {
-      "text": "95 Tours",
-      "iconClass": "fa fa-plane"
-    }
-  },
-  {
-    "image": {
-      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
-      "alt": "card-image5"
-    },
-    "badge": {
-      "text": "Family Friendly",
-      "style": "text-orange-700"
-    },
-    "icon": {
-      "class": "fa fa-smile-o",
-      "ariaHidden": true
-    },
-    "title": "Fun for Everyone",
-    "activities": [
-      "Amusement Parks",
-      "Zoo Visits",
-      "Interactive Museums",
-      "Beach Games",
-      "Camping Adventures"
-    ],
-    "extraInfo": {
-      "text": "120 Tours",
-      "iconClass": "fa fa-child"
-    }
-  },
-  {
-    "image": {
-      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/Ruins/image2.jpg",
-      "alt": "card-image6"
-    },
-    "badge": {
-      "text": "Budget Friendly",
-      "style": "text-yellow-700"
-    },
-    "icon": {
-      "class": "fa fa-dollar",
-      "ariaHidden": true
-    },
-    "title": "Affordable Escapes",
-    "activities": [
-      "Backpacking Trips",
-      "Road Trips",
-      "Budget Stays",
-      "City Bus Tours",
-      "Local Markets"
-    ],
-    "extraInfo": {
-      "text": "320 Tours",
-      "iconClass": "fa fa-bus"
-    }
-  }
 ]
