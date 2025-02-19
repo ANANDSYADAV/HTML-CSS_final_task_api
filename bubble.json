@@ -2,35 +2,43 @@
   "images": [
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image1.png",
-      "alt": "image1"
+      "alt": "image1",
+      "caption": "Explore Ruins"
     },
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image2.png",
-      "alt": "image2"
+      "alt": "image2",
+      "caption": "Beach Snorkel"
     },
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image3.png",
-      "alt": "image3"
+      "alt": "image3",
+      "caption": "City Cycling"
     },
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image4.png",
-      "alt": "image4"
+      "alt": "image4",
+      "caption": "Mountain Trek"
     },
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image5.png",
-      "alt": "image5"
+      "alt": "image5",
+      "caption": "Food Tour"
     },
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image6.png",
-      "alt": "image6"
+      "alt": "image6",
+      "caption": "River Cruise"
     },
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image7.png",
-      "alt": "image7"
+      "alt": "image7",
+      "caption": "Spa Retreat"
     },
     {
       "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image8.png",
-      "alt": "image8"
+      "alt": "image8",
+      "caption": "Road Trip"
     }
   ]
 }
