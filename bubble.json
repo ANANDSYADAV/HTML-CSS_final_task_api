@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image1.png",
+      "alt": "image1"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image2.png",
+      "alt": "image2"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image3.png",
+      "alt": "image3"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image4.png",
+      "alt": "image4"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image5.png",
+      "alt": "image5"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image6.png",
+      "alt": "image6"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image7.png",
+      "alt": "image7"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/bubbles/image8.png",
+      "alt": "image8"
+    }
+  ]
+}
