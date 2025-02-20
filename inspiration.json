@@ -2,7 +2,7 @@
     {
         "id": 1,
         "category": "Cultural",
-        "image": "/images/next-trip/image1.png",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/inspirations/img1.png",
         "date": "18 Sep 2024",
         "timeToRead": "6 mins",
         "comments": "38 comments",
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "category": "Travel",
-        "image": "/images/next-trip/image2.png",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/inspirations/img2.png",
         "date": "18 Sep 2024",
         "timeToRead": "6 mins",
         "comments": "38 comments",
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "category": "Discovery",
-        "image": "/images/next-trip/image3.png",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/inspirations/img3.png",
         "date": "18 Sep 2024",
         "timeToRead": "6 mins",
         "comments": "38 comments",
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "category": "Cultural",
-        "image": "/images/next-trip/image1.png",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/inspirations/img4.png",
         "date": "18 Sep 2024",
         "timeToRead": "6 mins",
         "comments": "38 comments",
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "category": "Travel",
-        "image": "/images/next-trip/image2.png",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/inspirations/img5.png",
         "date": "18 Sep 2024",
         "timeToRead": "6 mins",
         "comments": "38 comments",
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "category": "Discovery",
-        "image": "/images/next-trip/image3.png",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/inspirations/img6.png",
         "date": "18 Sep 2024",
         "timeToRead": "6 mins",
         "comments": "38 comments",
