@@ -5,7 +5,7 @@
         "alt": "image1",
         "location": "Jakatar",
         "rating": 5,
-        "message": "I've been using the hotel booking system for several years now, and it's become my go-to platform for planning my trips. The interface is user-friendly, and I appreciate the detailed information and real-time availability of hotels.",
+        "message": "I've been using the hotel booking system for several years now, and it's become my go-to platform for planning my trips. The interface is user-friendly, and I appreciate the detailed information and real-time availability of hotels."
     },
     {
         "userName": "Atend John",
@@ -13,7 +13,7 @@
         "alt": "image2",
         "location": "Califonia",
         "rating": 5,
-        "message": "I had a last-minute business trip, and the hotel booking system came to the rescue. I was able to find a high-quality hotel in no time and even got a great deal on the room. The confirmation process was straightforward, and I received all the necessary information promptly.",
+        "message": "I had a last-minute business trip, and the hotel booking system came to the rescue. I was able to find a high-quality hotel in no time and even got a great deal on the room. The confirmation process was straightforward, and I received all the necessary information promptly."
     },
     {
         "userName": "Anand Yadav",
@@ -21,7 +21,7 @@
         "alt": "image3",
         "location": "Hyderabad",
         "rating": 5,
-        "message": "I've been using the hotel booking system for several years now, and it's become my go-to platform for planning my trips. The interface is user-friendly, and I appreciate the detailed information and real-time availability of hotels.",
+        "message": "I've been using the hotel booking system for several years now, and it's become my go-to platform for planning my trips. The interface is user-friendly, and I appreciate the detailed information and real-time availability of hotels."
     },
     {
         "userName": "Amit Singh",
@@ -29,6 +29,6 @@
         "alt": "image4",
         "location": "Chandigarh",
         "rating": 5,
-        "message": "I had a last-minute business trip, and the hotel booking system came to the rescue. I was able to find a high-quality hotel in no time and even got a great deal on the room. The confirmation process was straightforward, and I received all the necessary information promptly.",
+        "message": "I had a last-minute business trip, and the hotel booking system came to the rescue. I was able to find a high-quality hotel in no time and even got a great deal on the room. The confirmation process was straightforward, and I received all the necessary information promptly."
     },
 ]
