@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "category": "Cultural",
+        "image": "/images/next-trip/image1.png",
+        "date": "18 Sep 2024",
+        "timeToRead": "6 mins",
+        "comments": "38 comments",
+        "title": "Ultimate Travel Planning Guide: 10 Tips for a Seamless Journey",
+        "author": {
+            "name": "Jimmy Daves",
+            "image": "images/users/user3.png"
+        }
+    },
+    {
+        "id": 2,
+        "category": "Travel",
+        "image": "/images/next-trip/image2.png",
+        "date": "18 Sep 2024",
+        "timeToRead": "6 mins",
+        "comments": "38 comments",
+        "title": "Top 10 Travel Hacks for Budget-Conscious Adventurers",
+        "author": {
+            "name": "Jimmy Daves",
+            "image": "images/users/user3.png"
+        }
+    },
+    {
+        "id": 3,
+        "category": "Discovery",
+        "image": "/images/next-trip/image3.png",
+        "date": "18 Sep 2024",
+        "timeToRead": "6 mins",
+        "comments": "38 comments",
+        "title": "Discovering Hidden Gems: 10 Off-the-Beaten-Path Travel Tips",
+        "author": {
+            "name": "Jimmy Daves",
+            "image": "images/users/user3.png"
+        }
+    },
+    {
+        "id": 4,
+        "category": "Cultural",
+        "image": "/images/next-trip/image1.png",
+        "date": "18 Sep 2024",
+        "timeToRead": "6 mins",
+        "comments": "38 comments",
+        "title": "Ultimate Travel Planning Guide: 10 Tips for a Seamless Journey",
+        "author": {
+            "name": "Jimmy Daves",
+            "image": "images/users/user3.png"
+        }
+    },
+    {
+        "id": 5,
+        "category": "Travel",
+        "image": "/images/next-trip/image2.png",
+        "date": "18 Sep 2024",
+        "timeToRead": "6 mins",
+        "comments": "38 comments",
+        "title": "Top 10 Travel Hacks for Budget-Conscious Adventurers",
+        "author": {
+            "name": "Jimmy Daves",
+            "image": "images/users/user3.png"
+        }
+    },
+    {
+        "id": 6,
+        "category": "Discovery",
+        "image": "/images/next-trip/image3.png",
+        "date": "18 Sep 2024",
+        "timeToRead": "6 mins",
+        "comments": "38 comments",
+        "title": "Discovering Hidden Gems: 10 Off-the-Beaten-Path Travel Tips",
+        "author": {
+            "name": "Jimmy Daves",
+            "image": "images/users/user3.png"
+        }
+    }
+]
