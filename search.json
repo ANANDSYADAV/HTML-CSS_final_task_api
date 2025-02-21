@@ -160,7 +160,7 @@
         "id": 10
     },
     {
-        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/india/tickets/img1.jpg",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/india/tickets/img1.avif",
         "altText": "card-image11",
         "badge": "Best Seller",
         "title": "IndiGo Flight to Delhi",
@@ -192,7 +192,7 @@
         "id": 12
     },
     {
-        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/india/tickets/img3.avif",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/india/tickets/img3.jpg",
         "altText": "card-image13",
         "badge": "Top Choice",
         "title": "SpiceJet Flight to Goa",
@@ -480,7 +480,7 @@
         "id": 1
     },
     {
-        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/russia/tours/img2.webp",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/russia/tours/img2.jpg",
         "altText": "card-image2",
         "badge": "Best Seller",
         "title": "Golden Ring Tour",
@@ -496,7 +496,7 @@
         "id": 2
     },
     {
-        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/russia/tours/img3.webp",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/russia/tours/img3.jpg",
         "altText": "card-image3",
         "badge": "Top Choice",
         "title": "St. Petersburg Historical Tour",
@@ -528,7 +528,7 @@
         "id": 4
     },
     {
-        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/russia/hotels/img2.webp",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/russia/hotels/img2.jpg",
         "altText": "card-image5",
         "badge": "Best Value",
         "title": "Seaside Resort in Sochi",
@@ -544,7 +544,7 @@
         "id": 5
     },
     {
-        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/russia/hotels/img3.webp",
+        "image": "https://raw.githubusercontent.com/ANANDSYADAV/HTML-CSS_final_task_api/refs/heads/main/search/russia/hotels/img3.jpg",
         "altText": "card-image6",
         "badge": "Top Rated",
         "title": "Downtown Hotel in St. Petersburg",
